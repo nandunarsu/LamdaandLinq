@@ -1,0 +1,15 @@
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\bin\Debug\net8.0\Linqdemo.exe
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\bin\Debug\net8.0\Linqdemo.deps.json
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\bin\Debug\net8.0\Linqdemo.runtimeconfig.json
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\bin\Debug\net8.0\Linqdemo.dll
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\bin\Debug\net8.0\Linqdemo.pdb
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\Linqdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\Linqdemo.AssemblyInfoInputs.cache
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\Linqdemo.AssemblyInfo.cs
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\Linqdemo.csproj.CoreCompileInputs.cache
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\Linqdemo.sourcelink.json
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\Linqdemo.dll
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\refint\Linqdemo.dll
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\Linqdemo.pdb
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\Linqdemo.genruntimeconfig.cache
+C:\Users\NANDINI\source\repos\Linqdemo\Linqdemo\obj\Debug\net8.0\ref\Linqdemo.dll
