@@ -1,0 +1,15 @@
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.exe
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.deps.json
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.runtimeconfig.json
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.dll
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\bin\Debug\net8.0\LamdaExpression.pdb
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.AssemblyInfoInputs.cache
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.AssemblyInfo.cs
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.sourcelink.json
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.dll
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\refint\LamdaExpression.dll
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.pdb
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\LamdaExpression.genruntimeconfig.cache
+C:\Users\NANDINI\source\repos\LamdaExpression\LamdaExpression\obj\Debug\net8.0\ref\LamdaExpression.dll
